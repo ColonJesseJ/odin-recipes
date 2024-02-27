@@ -1,0 +1,45 @@
+
+* {
+   background-color: #7ee1ca;
+    font-family: Arial, Helvetica, sans-serif
+}
+h1 {
+    text-align: center;
+    font-size: 60px;
+}
+a {
+    background-color: #4b8578;
+    color: white;
+}
+button{
+    background-color: #4b8578;
+    font-size: 20px;
+
+}
+.spc {
+    margin-left: 60px;
+    margin-right: 90px;
+}
+
+.ckn {
+    width: auto;
+    height: 200px;
+    margin-right: 42px;
+}
+.recipeImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.info {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+h2 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
